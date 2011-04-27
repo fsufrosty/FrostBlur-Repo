@@ -5,7 +5,7 @@
     [
     {
         "name": "FrostBlur v0.03 Alpha",
-        "summary": "Alpha",
+        "summary": "Alpha, MUST FLASH 2.6.32 AOSP KERNEL BEFORE REBOOT",
         "device": "inc",
 	"screenshots":
 [
