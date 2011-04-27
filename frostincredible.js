@@ -4,11 +4,13 @@
     "roms":
     [
     {
-        "name": "FrostBlur v0.02 Alpha",
+        "name": "FrostBlur v0.03 Alpha",
         "summary": "Alpha",
         "device": "inc",
-        "screenshot": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/FrostIncredible.png",
-        "url": "https://github.com/fsufrosty/FrostBlur-Repo/blob/master/FrostBlur_v002_frostincredible.zip?raw=true"
+        "screenshot": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/Screenshot1.jpg",
+	"screenshot": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/Screenshot2.jpg",
+	"screenshot": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/Screenshot3.jpg",
+        "url": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/FrostBlur-v003-frostincredible.zip"
     }
     ]
 }
