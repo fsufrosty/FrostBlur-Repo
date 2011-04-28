@@ -1,6 +1,6 @@
 {
     "version": "1",
-    "homepage": "http://fsufrosty.co.cc",
+    "homepage": "nil",
     "roms":
     [
     {
