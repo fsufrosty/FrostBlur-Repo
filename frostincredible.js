@@ -13,7 +13,7 @@
 "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/Screenshot2.jpg",
 "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/Screenshot3.jpg"
 ],
-        "url": "https://github.com/fsufrosty/FrostBlur-Repo/raw/master/FrostBlur-v003-frostincredible.zip"
+        "url": "http://dl.dropbox.com/u/27619062/FrostBlur-v003-frostincredible.zip"
     }
     ]
 }
